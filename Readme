@@ -1,0 +1,1 @@
+tableTraverse is a jQuery plugin allowing you to use your arrow keys to move through textboxes in an html table.  It also allows you to highlight what row your cursor is on in the table.
